@@ -1,1 +1,3 @@
 Contenido del file_1.txt
+
+--Linea agregada desde la rama feature/pruebaRevert--
